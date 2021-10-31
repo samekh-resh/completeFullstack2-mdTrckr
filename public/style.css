@@ -1,7 +1,29 @@
+/* for index - signup */
+
 body{
   padding-top:80px;
   word-wrap:break-word;
+  background: url(img/mood.jpg);
 }
 img{
   height: 200px;
 }
+
+/* index */
+.enterBox, .designBox, .designBox2{
+  background: bisque;
+  padding:5%;
+  width:300px;
+  margin: 2px;
+}
+
+.designBox{
+  float: right;
+  clear:left;
+}
+.designBox2{
+  position: relative;
+  top:300px;
+}
+
+/* login */
